@@ -37,6 +37,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Sping speeds up development
 gem 'spring', group: :development
 
+# Devise needed for user authentication
+gem 'devise', '~> 3.4.1'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
